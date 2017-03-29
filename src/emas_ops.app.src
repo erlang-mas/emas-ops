@@ -1,0 +1,14 @@
+{application, emas_ops,
+ [{description, "Genetic operators for various evolutionary problems"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+  {maintainers, ["Bartosz Zurkowski"]},
+  {licenses, ["MIT"]},
+  {links, []}
+ ]}.
