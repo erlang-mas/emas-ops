@@ -15,4 +15,8 @@ logs
 _build
 .idea
 rebar3.crashdump
+.hosts.erlang
+priv
+compile_commands.json
+emas_ops
 rebar3
